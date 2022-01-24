@@ -1,4 +1,4 @@
-# ProjetosdeCircuitosIntegradosAnalogicos
+# Projetosde Circuitos Integrados Analogicos e Digitais
 
 Esta série de 4  experimentos tem como objetivo explorar a documentação da tecnologia de 0,35µm oferecida pela AustriaMicroSystems ( AMS AG) empresa de design e fabricação de circuitos integrados analógicos de alto desempenho como disposto no site.
 
